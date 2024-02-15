@@ -1,0 +1,10 @@
+.newContactLabel {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0;
+  gap: 10px;
+  margin: 0;
+}
+.newContactInput {
+  width: 200px;
+}

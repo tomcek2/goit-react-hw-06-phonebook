@@ -1,4 +1,4 @@
-import { Phonebook } from './Phonebook/Phonebook';
+import { Phonebook } from '../pages/Phonebook';
 
 export const App = () => {
   return (
